@@ -2,11 +2,15 @@
 
 Calculates IAQ with a BME680 sensor on a Heltec WIFI Kit 32 display
 
-Code for those who are interested in using a BME680 sensor via I2C and Adafruit libraries to calculate IAQ without the proprietary libraries from Bosch. 
+Example, how to use a BME680 (here: GY-BME680 5V/3.3V) and display calculated values on a HELTEC WIFI Kit 32 display
+- Reading of raw temperature, humidity and gas resistance
+- Allow offset for temperature calibration
+- Automatically calculate respective humidity using the August-Roche-Magnus approximation
+- Calculate IAQ from temperature, humidity and gas resistance following Dr. Julie Riggs, The IAQ Rating Index, www.iaquk.org.uk
 
 [![BME680](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/blob/master/images/IMG_20191217_194643.jpg)](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/)
 
-Example, how to read data from a BME680 (here: GY-BME680 5V/3.3V) and display the values on a HELTEC WIFI Kit 32 display
+Code for those who are interested in using a BME680 sensor via I2C and Adafruit libraries to calculate IAQ without the proprietary libraries from Bosch. 
 
 Adafruit´s library: 
   This is a library for the BME280 humidity, temperature & pressure sensor
