@@ -2,7 +2,7 @@
 
 Shows BME680 IAQ values on a Heltec WIFI Kit 32 display
 
-Code for those who are interested in using a BME680 sensor via I2C and Adafruit libraries to calculate IAQ without the propreatary libraries. 
+Code for those who are interested in using a BME680 sensor via I2C and Adafruit libraries to calculate IAQ without the propreatary libraries from Bosch. 
 
 [![BME680](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/blob/master/images/IMG_20191217_194643.jpg)](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/)
 
