@@ -8,10 +8,6 @@ Code for those who are interested in using a BME680 sensor via I2C and Adafruit 
 
 Example, how to read data from a BME680 (here: GY-BME680 5V/3.3V) and display the values on a HELTEC WIFI Kit 32 display
 
-CREDITS:
-Basic solution provided by itofficeeu https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/issues/62 because Pin21 and Pin22
-do not work for this purpose.
-
 Adafruit´s library: 
   This is a library for the BME280 humidity, temperature & pressure sensor
   Designed specifically to work with the Adafruit BME280 Breakout
