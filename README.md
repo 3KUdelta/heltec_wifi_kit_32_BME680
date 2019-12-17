@@ -4,7 +4,7 @@ Shows BME680 IAQ values on a Heltec WIFI Kit 32 display
 
 Code for those who are interested in using a BME680 sensor via I2C and Adafruit libraries to calculate IAQ without the propreatary libraries. 
 
-[![BME280](https://github.com/3KUdelta/heltec_wifi_kit_32_bme280/blob/master/IMG_2923%202.JPG)](https://github.com/3KUdelta/heltec_wifi_kit_32_bme280/)
+[![BME680](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/blob/master/images/IMG_20191217_194643.jpg)](https://github.com/3KUdelta/heltec_wifi_kit_32_BME680/)
 
 Example, how to read data from a BME680 (here: GY-BME680 5V/3.3V) and display the values on a HELTEC WIFI Kit 32 display
 
@@ -12,7 +12,7 @@ CREDITS:
 Basic solution provided by itofficeeu https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/issues/62 because Pin21 and Pin22
 do not work for this purpose.
 
-Adafrit´s library: 
+Adafruit´s library: 
   This is a library for the BME280 humidity, temperature & pressure sensor
   Designed specifically to work with the Adafruit BME280 Breakout
   ----> http://www.adafruit.com/products/2650
